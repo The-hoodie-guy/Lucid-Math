@@ -86,7 +86,7 @@ const Results: React.FC = () => {
           </div>
           
           <div className="text-center p-4 rounded-lg bg-primary bg-opacity-10 border border-primary border-opacity-20">
-            <div className="text-4xl font-bold text-primary mb-2">{scorePercentage}%</div>
+            <div className="text-4xl font-bold text-white mb-2">{scorePercentage}%</div>
             <div className="text-neutral-700 font-bold">Your Score</div>
           </div>
         </div>
